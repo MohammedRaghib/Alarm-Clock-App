@@ -24,7 +24,7 @@ function Tabs() {
   return (
     <Tab.Navigator screenOptions={{ headerShown: false }}>
       <Tab.Screen
-        name=""
+        name="Alarms"
         component={AlarmsStack}
         options={{
           tabBarIcon: ({ focused }) => (

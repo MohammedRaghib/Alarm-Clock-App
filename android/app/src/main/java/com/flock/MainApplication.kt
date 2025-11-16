@@ -1,4 +1,4 @@
-package com.push
+package com.flock
 
 import android.app.Application
 import com.facebook.react.PackageList
